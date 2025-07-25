@@ -1,0 +1,26 @@
+/* Preloader.css */
+.preloader {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    background-color: #000;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: transform 0.8s ease-out, opacity 0.8s ease-out; /* Smooth transition */
+  }
+
+.preloader-active {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.preloader-exit {
+    transform: translateY(-100%);
+   
+}
