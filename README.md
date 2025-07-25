@@ -5,7 +5,7 @@ I'm **Mohd Tabish**, a passionate and motivated fresher Web Developer focused on
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://Mohd-Tabish-Shaikh.github.io/presnol-portfolio)
+[Click here to view the live site](https://presnol-portfolio-sandy.vercel.app/)
 
 ## 📌 Features
 
